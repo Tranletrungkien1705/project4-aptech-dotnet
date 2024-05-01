@@ -261,3 +261,4 @@ D:\Project 4 of APTECH\Project4\Project4\obj\Release\net6.0\refint\Project4.dll
 D:\Project 4 of APTECH\Project4\Project4\obj\Release\net6.0\Project4.pdb
 D:\Project 4 of APTECH\Project4\Project4\obj\Release\net6.0\Project4.genruntimeconfig.cache
 D:\Project 4 of APTECH\Project4\Project4\obj\Release\net6.0\ref\Project4.dll
+D:\Project 4 of APTECH\Project4\Project4\obj\Release\net6.0\Project4.sourcelink.json
