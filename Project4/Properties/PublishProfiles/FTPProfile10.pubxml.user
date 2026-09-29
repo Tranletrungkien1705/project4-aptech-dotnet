@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAC+9rlVNyDUKYp8nSSFljgwAAAAACAAAAAAAQZgAAAAEAACAAAABciUITAJRA9hyP1XV+rSlH05cZF16t4AW6g8W31BhWKQAAAAAOgAAAAAIAACAAAABIoSyNXHoKiDsL2bZmZ3gZuMa4FeV6m9C8+Z5l5XVTvyAAAAAYyWpywgAbQ0+5GMKecL2YhULFwuapUGxaqst6StPBG0AAAAB0tupVkAckpD5CPPcT6oGh37jh1HIjG9s7IuUU8+elheu0erPvuBXPCi632qoPQLYtNJgDgR3NpPH+8JuHSLK3</EncryptedPassword>
+    <_PublishTargetUrl>ftp://exProject41.somee.com/www.exProject41.somee.com</_PublishTargetUrl>
+    <History>False|2024-07-05T09:54:41.4030607Z;False|2024-07-05T16:53:41.7722523+07:00;False|2024-07-05T16:52:56.2423046+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=workstation id=aspnet-eProject4.mssql.somee.com%3bpacket size=4096%3buser id=kienTran_SQLLogin_1%3bpwd=jbt6o57g22%3bdata source=aspnet-eProject4.mssql.somee.com%3bpersist security info=False%3binitial catalog=aspnet-eProject4%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

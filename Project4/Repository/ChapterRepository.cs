@@ -61,10 +61,12 @@ namespace Project4.Repository
                                          Images = p.Images 
                                      }).ToList<PageeResponse>()
                         };
-            var view = new Viewed();
-            view.ChapterId = chapterId;
-            view.UserId = userId;
-            await _viewdRepository.CreateAsync(view);
+            if(userId != null) {
+                var view = new Viewed();
+                view.ChapterId = chapterId;
+                view.UserId = userId;
+                await _viewdRepository.CreateAsync(view);
+            }
             return await query.ToListAsync();
         }
         public async Task<List<Chapter>> GetChapterByName(string name)

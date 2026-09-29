@@ -11791,11 +11791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
+      "projectUniqueName": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
       "projectName": "Project4",
-      "projectPath": "D:\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
+      "projectPath": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Project 4 of APTECH\\Project4\\Project4\\Project4\\obj\\",
+      "outputPath": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

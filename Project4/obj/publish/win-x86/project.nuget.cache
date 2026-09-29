@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+jKsc9yWvQAXOiU7Ucp30xwX2aZWZBxLkLyOHVCm89ZrwVQSi0+XWobwWKzWFDtLWycz/4X2TuyE9CrvxpNXA==",
+  "dgSpecHash": "+WhURJ9/K0LAe3Au3kU49RzXIJT+Tw/8P8VQKD5YxyeVVbxPYWozjyak74KVGROKtxh8VuXYIAPvvtyDEXvdIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Downloads\\Project_4_sever_controller\\Project_4_sever_controller\\Project4\\Project4\\Project4.csproj",
+  "projectFilePath": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\awssdk.core\\3.7.303.17\\awssdk.core.3.7.303.17.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\awssdk.s3\\3.7.307.18\\awssdk.s3.3.7.307.18.nupkg.sha512",
@@ -266,9 +266,10 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.13\\microsoft.netcore.app.runtime.win-x86.6.0.13.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.13.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x86.6.0.13.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.29\\microsoft.netcore.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.29\\microsoft.aspnetcore.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.29\\microsoft.netcore.app.crossgen2.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

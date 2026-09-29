@@ -16644,11 +16644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Downloads\\Project_4_sever_controller\\Project_4_sever_controller\\Project4\\Project4\\Project4.csproj",
+      "projectUniqueName": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
       "projectName": "Project4",
-      "projectPath": "C:\\Users\\PC\\Downloads\\Project_4_sever_controller\\Project_4_sever_controller\\Project4\\Project4\\Project4.csproj",
+      "projectPath": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\Project4.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Downloads\\Project_4_sever_controller\\Project_4_sever_controller\\Project4\\Project4\\obj\\publish\\win-x86\\",
+      "outputPath": "D:\\ALL IN APTECH\\ALL IN APTECH\\Project 4 of APTECH\\Project4\\Project4\\Project4\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -16671,6 +16671,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -16740,15 +16745,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+            "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x86",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.29, 6.0.29]"
           }
         ],
         "frameworkReferences": {
@@ -16759,7 +16768,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
